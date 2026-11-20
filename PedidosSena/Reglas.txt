@@ -1,0 +1,10 @@
+INICIAR APP WEB
+npx expo start -c 
+INICIAR APP MOVIL TUNEL
+npx expo start --tunnel-c
+ACTUALIZAR GESTOR NPM
+npm install -g npm@latest
+ACTUALIZAR GESTOR EXPO
+npm install -g @expo/ngrok@latest
+INSTALAR NEGROK PARA GENERAR TUNEL 
+npm install -global @expo/ngrok@^4.1.0
